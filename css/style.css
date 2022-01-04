@@ -1,0 +1,26 @@
+*{
+    list-style: none;
+    text-decoration: none;
+}
+
+.main-body{
+    display: flex;
+    flex-direction: row;
+    flex-flow: row-reverse;
+    
+}
+main{
+    width: 70%;
+    height: auto;
+    background-color: aqua;
+}
+
+aside{
+    width: 30%;
+    height: auto;
+    background-color: brown;
+}
+.main-heading{
+    text-align: center;
+    color: #FFFFFF;
+}
